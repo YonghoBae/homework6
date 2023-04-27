@@ -43,6 +43,7 @@ int main()
 	int key;
 	headNode* headnode=NULL;
 
+	printf("[----- [Yongho Bae] [2020039008] -----]");
 	do{
 		printf("----------------------------------------------------------------\n");
 		printf("                     Singly Linked List                         \n");
